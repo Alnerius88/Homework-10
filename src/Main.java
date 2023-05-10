@@ -5,6 +5,7 @@ public class Main {
         task1();
         task2();
         task3();
+        System.out.println("Ночевка зимой в лесу - ужасна.");
     }
     public static void task1 () {
         System.out.println("Задача 1");
